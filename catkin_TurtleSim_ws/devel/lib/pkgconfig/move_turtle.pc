@@ -1,0 +1,1 @@
+/home/client/ROBO_TP_TurtleSim_Ramcharn/catkin_TurtleSim_ws/devel/.private/move_turtle/lib/pkgconfig/move_turtle.pc
